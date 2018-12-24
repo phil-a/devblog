@@ -1,17 +1,17 @@
 module.exports = {
   title: 'Dev Blog', // Required
-  author: 'Ryan Fitzgerald', // Required
+  author: 'Philip Alekseev', // Required
   description: 'Full-stack Web Developer',
   primaryColor: '#3498db', // Required
   showHeaderImage: true,
   showShareButtons: true,
   postsPerPage: 5, // Required
   social: {
-    website: 'https://ryanfitzgerald.ca',
-    github: 'https://github.com/ryanfitzgerald',
-    twitter: 'https://twitter.com/ryanafitzgerald',
-    linkedin: 'https://ca.linkedin.com/in/ryanafitzgerald',
+    website: 'https://www.alekseev.ca',
+    github: 'https://github.com/phil-a',
+    twitter: 'https://twitter.com/Philx101',
+    linkedin: 'https://ca.linkedin.com/in/philipalekseev',
   },
   pathPrefix: '/devblog',
-  siteUrl: 'https://ryanfitzgerald.github.io/devblog/',
+  siteUrl: 'https://alekseev.ca/',
 };
